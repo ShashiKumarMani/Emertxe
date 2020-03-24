@@ -1,3 +1,3 @@
 # Emertxe
-Emertxe - Embedded systems Intermediate - (August 6 2019 - ??)
+Emertxe - Embedded systems Intermediate Course - (August 6 2019 - ??)
 Assignments and projects.
