@@ -1,0 +1,10 @@
+total 4472
+-rwxrwxr-x 1 ubuntu ubuntu    8304 Mar  7 20:23 a.out
+-rw-rw-r-- 1 ubuntu ubuntu     641 Mar  7 20:26 file.c
+-rw-rw-r-- 1 ubuntu ubuntu     237 Mar  7 18:59 file.h
+-rw-rw-r-- 1 ubuntu ubuntu       0 Mar 10 08:19 file.txt
+-rwxrwxr-x 1 ubuntu ubuntu   13008 Mar 10 08:17 server
+-rw-r--r-- 1 ubuntu ubuntu 4514816 Mar  9 00:25 server.c
+-rwxrwxr-x 1 ubuntu ubuntu   12920 Mar  7 20:37 test
+-rw-rw-r-- 1 ubuntu ubuntu    1024 Mar  7 20:21 test.txt
+-rw-rw-r-- 1 ubuntu ubuntu      86 Mar  7 20:23 test_while.c
